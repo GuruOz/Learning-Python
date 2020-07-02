@@ -1,3 +1,6 @@
+#This simple script rolls a 6 sided die for 10 million times and reports back on the number of times each number was casted.
+#It uses the random class.
+
 import random
 x = 0
 one = 0
